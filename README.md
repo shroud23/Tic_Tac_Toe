@@ -1,2 +1,2 @@
-# Tic_Tac_Toe
-tic tac toe game 
+# Tic Tac Toe
+tic tac toe game using minimax algorithm
